@@ -1,0 +1,54 @@
+bid,genre,bname,author,pyear,publisher,edition
+b01,Non Fiction,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Crown Publishers,1st edition
+b02,Non Fiction,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Random House,1st edition
+b03,Non Fiction,Educated: A Memoir,Tara Westover,2018,Random House,1st edition
+b04,Non Fiction,Becoming,Michelle Obama,2021,Crown Publishers,Paperback edition
+b05,Non Fiction,The Wright Brothers,David McCullough,2015,Simon & Schuster,1st edition
+b06,Non Fiction,The discovery of India,Jawaharlal Nehru,2025,Penguin Random House,New Paperback Edition
+b07,Non Fiction,A brief history of Time,Stephen Hawking,1998,Bantam Books,Tenth Anniversary Edition
+b08,Non Fiction,Outliers: The Story of Success,Malcolm Gladwell ,2017,Penguin Books,Paperback edition
+b09,Non Fiction,"Thinking, Fast and Slow",Daniel Kahneman,2011,Penguin Books,Paperback edition
+b10,Non Fiction,Silent Spring,Rachel Carson,2022,Penguin Books,Paperback edition
+b11,Non Fiction,The Art of War,Sun Tzu,5th century,,
+b12,Non Fiction,On the Origin of Species,Charles Darwin,2021,Penguin Books,Paperback reprint Edition
+b13,Fiction,To Kill a Mockingbird,Harper Lee,2025,HarperCollins Books,CollectorÂs Edition
+b14,Fiction,1984 story,George Orwell,1949,Secker & Warburg,Paperback edition
+b15,Fiction,The Great Gatsby,F. Scott Fitzgerald,1925,Charles ScribnerÂs Sons,1st edition
+b16,Fiction,The Catcher in the Rye,J. D. Salinger,1951,"Little, Brown and Company",Paperback edition
+b17,Fiction,The Covenant of Water,Abraham Verghese,2023,Grove Atlantic,1st edition
+b18,Fiction,The 6:20 Man,David Baldacci,2022,Grand Central Publishing ,Paperback edition
+b19,Fiction,The Night Circus,Erin Morgenstern,2011,Vintage Books,Paperback reprint Edition
+b20,Fiction,The Kite Runner,Khaled Hosseini,2003,Riverhead Books,Paperback reprint Edition
+b21,Fiction,The Girl on the Train,Paula Hawkins,2015,Riverhead Books,Paperback reprint Edition
+b22,Fiction,The White Tiger,Aravind Adiga,2008,HarperCollins Books,Paperback reprint Edition
+b23,Fiction,The Midnight Library,Matt Haig,2020,Canongate Books,Paperback reprint Edition
+b24,Biographies,Steve Jobs,Walter Isaacson,2011,Simon & Schuster,Paperback reprint Edition
+b25,Biographies,Alexander Hamilton,Ron Chernow,2004,Penguin Press,1st edition
+b26,Biographies,The Diary of a Young Girl,Anne Frank,1947,Contact Publishing,1st edition
+b27,Biographies,Long Walk to Freedom,Nelson Mandela,1994,"Little, Brown and Company",Paperback reprint Edition
+b28,Biographies,The Rise of Theodore Roosevelt,Edmund Morris,1979,Random House,1st edition
+b29,Science Fiction,Dune,Frank Herbert,1965,Penguin House,Deluxe Hardcover Edition
+b30,Science Fiction,Neuronancer,Bruce G. Nicholls,1974,Oxford University Press,Sixth Edition
+b31,Science Fiction,The Left Hand of Darkness,Ursula K. Le Guin,1969,Ace Books,Penguin Galaxy Edition
+b32,Science Fiction,The War of the Worlds,H. G. Wells ,1898,Penguin Books,Classics Edition
+b33,Science Fiction,Project Hail Mary,Andy Weir,2021,Ballantine Books,Hardcover Edition
+b34,Science Fiction,Klara and the Sun,Kazuo Ishiguro,2021,Alfred A. Knopf,Hardcover Edition
+b35,Science Fiction,The Ministry of the Future,Kim Stanley Robinson,2020,Orbit Books,Hardcover Edition
+b36,Science Fiction,The Luminous Dead,Caitlin Starling,2019,Harper Voyager,Paperback edition
+b37,Science Fiction,The Future of Another Timeline,Annalee Newitz,2019,Tor Books,1st edition
+b38,Science Fiction,Blackfish City,Sam J. Miller,2018,Orbit Books,Paperback edition
+b39,Science Fiction,Semiosis,Sue Burke,2018,Tor Books,1st edition
+b40,Science Fiction,Red Mars,Kim Stanley Robinson,1992,HarperCollins Books,Trade paperback Edition
+b41,Subject Related,Campbell Biology (Biology),Rebecca B. Orr,2021,Pearson,12th Edition
+b42,Subject Related,Fundamentals of Physics (Physics),Jearl Walker,2021,John Wiley & Sons,12th Edition
+b43,Subject Related,Chemistry: The Central Science (Chemistry),Matthew E. Stoltzfus ,2022,Pearson,15th Edition
+b44,Subject Related,Elementary Linear Algebra (Mathematics),Howard Anton and Chris Rorres,2013,John Wiley & Sons,11th Edition
+b45,Subject Related,Psychology,David G. Myers,2023,Worth Publishers,14th Edition
+b46,Subject Related,Mathematics for Class 12 (Mathematics),Textbook Development Team,2023,NCERT,Revised Edition
+b47,Subject Related,Concise Chemistry for Class 10 (Chemistry),Dr. S. P. Singh,2025,Selina Publishers,New Edition
+b48,Subject Related,Objective General English (English),S. P. Bakshi,2024,Arihant Publications,New Edition
+b49,Subject Related,Arihant Objective Physics (Physics),D. C. Pandey,2025,Arihant Publications,Revised Edition
+b50,Subject Related,New Simplified Physics (Physics),S. L. Arora,2025,Dhanpat Rai & Co.,Revised Edition
+b51,Fiction,The Alchemist,Paulo Coelho,1988,HarperCollins Books,Paperback edition
+b52,Fiction,Pride and Prejudice,Jane Austen,1813,"T. Egerton,Whitehall",1st Edition
+b53,Biographies,Wings of Fire ,A.P.J. Abdul Kalam,1999,Universities Press,1st Edition
